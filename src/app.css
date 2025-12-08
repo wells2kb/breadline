@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.metallic {
+  color: #000;
+  background: linear-gradient(
+    45deg,
+    #999 5%,
+    #fff 10%,
+    #ccc 30%,
+    #ddd 50%,
+    #ccc 70%,
+    #fff 80%,
+    #999 95%
+  );
+}
