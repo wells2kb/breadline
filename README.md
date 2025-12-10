@@ -5,6 +5,10 @@ This app allows people to get free food that would never make it to a food bank.
 The idea is users order and pickup food waste which turns into tax deductions for the company that shared it.
 The app also acts as a middle man to protect companies from any legal battles.
 
+## Video
+
+[Video](https://youtu.be/qiRiD71bWxE)
+
 ## User Page
 
 ![User Page](./docs/user_page.png)
